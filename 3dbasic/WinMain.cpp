@@ -1,5 +1,6 @@
 #include < DxLib.h>
 
+#if 0
 int WINAPI WinMain(HINSTANCE hI, HINSTANCE hP, LPSTR lpC, int nC)
 {
 	int model1;
@@ -98,3 +99,4 @@ int WINAPI WinMain(HINSTANCE hI, HINSTANCE hP, LPSTR lpC, int nC)
 	DxLib_End();
 	return 0;
 }
+#endif
